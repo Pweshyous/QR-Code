@@ -1,0 +1,36 @@
+body {
+    font-family: 'Outfit';
+    background-color: rgb(207, 205, 205);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.code {
+    border-radius: 5%;
+    height: 29rem;
+    width: 16.3rem;
+    background-color: white;
+    margin-top: 3rem;
+}
+
+.image {
+    height: 17rem;
+    width: 15rem;
+    margin-left: 0.7rem;
+    margin-top: 0.7rem;
+    border-radius: 5%;
+}
+
+.heading {
+    font-size: larger;
+    font-weight: bold;
+    color: rgb(2, 2, 32);
+    margin-left: 1.5rem;
+}
+
+.content {
+    font-size: 15px;
+    text-align: center;
+    color: rgb(78, 78, 110);
+}
